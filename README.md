@@ -1,0 +1,1 @@
+# liferay-resource-model-based-entity-indexer
