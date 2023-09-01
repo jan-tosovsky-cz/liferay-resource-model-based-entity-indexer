@@ -1,0 +1,10 @@
+Bundle-SymbolicName: my.memo.api
+Bundle-Version: 1.0.0
+Export-Package: \
+    my.memo.exception,\
+    my.memo.model,\
+    my.memo.service,\
+    my.memo.service.persistence,\
+    my.memo.util,\
+    my.memo.util.comparator,\
+    my.memo.util.search
